@@ -1,11 +1,16 @@
-/* Condition Icon Hover*/
 #token-hud .status-effects .effect-control:hover {
     opacity: 1;
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
 }
-
+#token-hud .status-effects {
+    width: none;
+    grid-template-columns: 50px 50px 50px 50px;
+}
+#token-hud .status-effects .effect-control {
+    width: 50px; height: 50px;
+}
 img.effect-control:hover {
-    max-width: 300%;
-    max-height: 300%;
+    max-width: 200%;
+    max-height: 200%;
 }
