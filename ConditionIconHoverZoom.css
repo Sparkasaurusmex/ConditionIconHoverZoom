@@ -1,3 +1,4 @@
+/* Condition Icon Hover*/
 #token-hud .status-effects .effect-control:hover {
     opacity: 1;
     width: 70px;
@@ -13,4 +14,20 @@
 img.effect-control:hover {
     max-width: 200%;
     max-height: 200%;
+}
+/* Token HUD size */
+.placeable-hud .control-icon {
+    box-sizing: content-box;
+    width: 50px;
+    flex: 0 0 54px;
+    margin: 5px 0;
+    font-size: 50px;
+}
+.placeable-hud input[type="text"] {
+    height: 50px;
+    font-size: 47px;
+}
+.placeable-hud .control-icon img {
+    height: 50px;
+    width: 50px;
 }
