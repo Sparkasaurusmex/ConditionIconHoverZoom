@@ -1,0 +1,11 @@
+/* Condition Icon Hover*/
+#token-hud .status-effects .effect-control:hover {
+    opacity: 1;
+    width: 60px;
+    height: 60px;
+}
+
+img.effect-control:hover {
+    max-width: 300%;
+    max-height: 300%;
+}
