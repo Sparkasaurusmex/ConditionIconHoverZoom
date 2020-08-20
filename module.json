@@ -2,7 +2,7 @@
   "name": "ConditionIconHoverZoom",
   "title": "ConditionIconHoverZoom",
   "description": "Condition Icons enlarge on hover",
-  "version": "0.2",
+  "version": "0.3",
   "author": "Sparkasaurusmex",
   "scripts": [ "ConditionIconHoverZoom.js" ],
   "styles": [ "ConditionIconHoverZoom.css" ],
@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/Sparkasaurusmex/ConditionIconHoverZoom/",
   "manifest": "https://raw.githubusercontent.com/Sparkasaurusmex/ConditionIconHoverZoom/master/module.json",
-  "download": "https://github.com/Sparkasaurusmex/ConditionIconHoverZoom/releases/download/0.2/ConditionIconHoverZoom.zip",
+  "download": "https://github.com/Sparkasaurusmex/ConditionIconHoverZoom/releases/download/0.3/ConditionIconHoverZoom.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.5"
 }
